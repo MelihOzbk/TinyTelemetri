@@ -1,0 +1,22 @@
+{
+  "name": "TinyTelemetry",
+  "version": "1.0.1",
+  "keywords": "LoRa, UART, EByte, esp32,Deneyap KART, Arduino"
+  "description": "Telemetry Library for Spektra Telemetry Computer PCBs. Hosts built-in NMEA decode and fixed message sending for Lora E220",
+  "authors":
+  [
+    {
+      "name": "Melih ÖZÜBEK",
+      "email": "melihozubek.19@protonmail.com",
+      "maintainer": true,
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MelihOzbk/TinyTelemetri"
+  },
+  "license": "GPT-3 and later",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "headers": ["TinyTelemetri.h"]
+}
